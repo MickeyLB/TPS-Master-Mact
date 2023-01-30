@@ -1,0 +1,18 @@
+<!--
+  ~ Copyright (c) 2022. Pierre J.-L. Plourde and 2390319 Ontario Limited dba TPS Promotions & Incentives
+  -->
+
+<deploy>
+	<configuration>
+		<path>~/AccountConfiguration/*</path>
+	</configuration>
+	<files>
+		<path>~/FileCabinet/*</path>
+	</files>
+	<objects>
+		<path>~/Objects/*</path>
+	</objects>
+	<translationimports>
+		<path>~/Translations/*</path>
+	</translationimports>
+</deploy>

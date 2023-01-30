@@ -1,0 +1,8 @@
+<!--
+  ~ Copyright (c) 2022. Pierre J.-L. Plourde and 2390319 Ontario Limited dba TPS Promotions & Incentives
+  -->
+
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+	<projectname>TPS-Master</projectname>
+	<frameworkversion>1.0</frameworkversion>
+</manifest>
